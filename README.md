@@ -50,5 +50,5 @@ Language Puzzle is a fun, interactive web application that tests your language s
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](LICENSE) License.
 
